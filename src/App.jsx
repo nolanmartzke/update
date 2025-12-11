@@ -14,10 +14,10 @@ const projects = [
     link: "https://github.com/nolanmartzke/Stock-Market-Simulator",
   },
   {
-    title: "Sports Analytics Dashboard",
-    blurb: "Interactive NBA shot charts and win probability models powered by Python and React.",
-    stack: ["Python", "Pandas", "PyTorch", "React"],
-    link: "https://github.com/nolanmartzke/sports-analytics",
+    title: "MLB Player Value Analytics",
+    blurb: "A data-driven pipeline that integrates advanced MLB statistics, salary data, and custom value algorithms to identify top performers and high-value trade targets. Features interactive visualizations and a React interface for exploring player performance.",
+    stack: ["Python", "Pandas", "Selenium", "PyBaseball", "SciPy", "React"],
+    link: "https://github.com/nolanmartzke/MLB-Rankings-Predictor",
   },
   {
     title: "ML Pipeline Starter",
