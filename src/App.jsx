@@ -11,7 +11,7 @@ const projects = [
     title: "Stock Simulator Platform",
     blurb: "Full‑stack trading simulator with real‑time quotes, multi‑account support, and portfolio analytics.",
     stack: ["React", "Spring Boot", "MySQL", "Docker"],
-    link: "https://github.com/nolanmartzke/stock-simulator",
+    link: "https://github.com/nolanmartzke/Stock-Market-Simulator",
   },
   {
     title: "Sports Analytics Dashboard",
