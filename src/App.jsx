@@ -20,10 +20,10 @@ const projects = [
     link: "https://github.com/nolanmartzke/MLB-Rankings-Predictor",
   },
   {
-    title: "ML Pipeline Starter",
-    blurb: "Reproducible ML workflow with data versioning, experiment tracking, and CI checks.",
-    stack: ["PyTorch", "DVC", "GitHub Actions"],
-    link: "https://github.com/nolanmartzke/ml-pipeline-starter",
+    title: "NFL QB Stat Visualizer",
+    blurb: "A Python-based NFL quarterback visualization that displays performance trends with team logos and names to make comparisons easy and engaging.",
+    stack: ["Python", "Pandas", "NumPy", "Matplotlib"],
+    link: "https://github.com/nolanmartzke/nfl_qb_visualization",
   },
 ]
 
